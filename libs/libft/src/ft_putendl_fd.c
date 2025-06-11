@@ -6,10 +6,9 @@
 /*   By: seizquie <seizquie@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/11 18:01:28 by seizquie          #+#    #+#             */
-/*   Updated: 2024/10/11 19:15:32 by seizquie         ###   ########.fr       */
+/*   Updated: 2025/06/11 14:02:40 by seizquie         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 
 #include "../include/libft.h"
 #include <fcntl.h>
