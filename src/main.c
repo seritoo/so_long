@@ -6,7 +6,7 @@
 /*   By: seizquie <seizquie@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/11 14:36:58 by seizquie          #+#    #+#             */
-/*   Updated: 2025/06/11 14:57:36 by seizquie         ###   ########.fr       */
+/*   Updated: 2025/06/12 15:47:26 by seizquie         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include "so_long.h"
@@ -14,9 +14,7 @@
 int	main(int argc, char **argv)
 {
 	t_game	game;
-	int		j;
-
-	j = 0;
+	
 	if (argc != 2)
 	{
 		ft_printf("Usage: ./so_long <map2.ber>\n");
